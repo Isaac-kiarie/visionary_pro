@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background: purple;
+}
+header h1{
+    text-align: center;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 32px;
+}
+header h1, p{
+    text-align: center;
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: auto;
+    font-size: 2em;
+    font-weight: 600;
+    
+}
+
+div img{
+    border-radius: 80%;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+    float: left;
+    
+}
